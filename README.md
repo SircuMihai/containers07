@@ -114,5 +114,6 @@ APP_VERSION=1.0.0
 - In urmatorul pas modificam fisierul docker-compose.yml astfel:
 1. in serviciul frontend se adauga env_file cu - app.env
 ![alt img](./image/Screenshot%202025-04-13%20155719.png)
+
 2. in serviciul backend in env_file se adauga - app.env
 ![alt img](./image/Screenshot%202025-04-13%20155728.png)
